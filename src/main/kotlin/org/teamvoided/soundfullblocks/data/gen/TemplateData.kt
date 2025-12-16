@@ -1,9 +1,9 @@
-package org.teamvoided.template.data.gen
+package org.teamvoided.soundfullblocks.data.gen
 
 import net.fabricmc.fabric.api.datagen.v1.DataGeneratorEntrypoint
 import net.fabricmc.fabric.api.datagen.v1.FabricDataGenerator
 import net.minecraft.core.RegistrySetBuilder
-import org.teamvoided.template.Template.log
+import org.teamvoided.soundfullblocks.Template.log
 
 @Suppress("unused")
 object TemplateData : DataGeneratorEntrypoint {

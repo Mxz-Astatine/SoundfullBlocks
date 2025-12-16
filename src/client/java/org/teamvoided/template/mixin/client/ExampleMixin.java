@@ -6,7 +6,7 @@ import org.spongepowered.asm.mixin.injection.At;
 import org.spongepowered.asm.mixin.injection.Inject;
 import org.spongepowered.asm.mixin.injection.callback.CallbackInfo;
 
-import static org.teamvoided.template.Template.log;
+import static org.teamvoided.soundfullblocks.Template.log;
 
 @Mixin(Minecraft.class)
 public class ExampleMixin {

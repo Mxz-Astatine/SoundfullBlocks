@@ -1,10 +1,10 @@
-package org.teamvoided.template
+package org.teamvoided.soundfullblocks
 
 import me.fzzyhmstrs.fzzy_config.api.ConfigApi
 import net.minecraft.resources.ResourceLocation
 import org.slf4j.Logger
 import org.slf4j.LoggerFactory
-import org.teamvoided.template.config.TemplateConfig
+import org.teamvoided.soundfullblocks.config.TemplateConfig
 
 @Suppress("unused")
 object Template {

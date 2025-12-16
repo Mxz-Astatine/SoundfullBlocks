@@ -1,6 +1,6 @@
 package org.teamvoided.template.client
 
-import org.teamvoided.template.Template
+import org.teamvoided.soundfullblocks.Template
 
 @Suppress("unused")
 object TemplateClient {

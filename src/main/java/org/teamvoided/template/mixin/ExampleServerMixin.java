@@ -14,7 +14,7 @@ import org.spongepowered.asm.mixin.injection.callback.CallbackInfo;
 
 import java.net.Proxy;
 
-import static org.teamvoided.template.Template.log;
+import static org.teamvoided.soundfullblocks.Template.log;
 
 @Mixin(MinecraftServer.class)
 public class ExampleServerMixin {
